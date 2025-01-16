@@ -1,0 +1,12 @@
+# Ignore C executables
+*.out
+*.exe
+
+# Ignore build artifacts
+*.o
+*.a
+*.so
+*.dll
+
+# Ignore the .vscode folder
+.vscode/
